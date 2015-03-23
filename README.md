@@ -1,7 +1,7 @@
 ## Installation
 
 ```sh
-pip install https://github.com/Romamo/sphinxapi/zipball/master
+pip install -e git://github.com/Romamo/sphinxapi.git#egg=sphinxapi
 ```
 
 ## Using
