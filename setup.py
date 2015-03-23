@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='sphinxapi',
-    version='2.1.7-release',
+    version='2.2.8-release',
     description='Sphinx search official client',
     long_description=open('README.md').read(),
     author='Sphinx Technologies Inc',
