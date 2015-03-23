@@ -415,7 +415,6 @@ class SphinxClient:
 		Set values set filter.
 		Only match records where 'attribute' value is in given 'values' set.
 		"""
-		attribute = str(attribute)
 		assert iter(values)
 
 		for value in values:
