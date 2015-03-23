@@ -12,8 +12,8 @@ import sphinxapi
 
 ## Current version
 
-* Sphinx 2.1.7-release
-* sphinxapi.py 4505 2014-01-22 15:16:21Z
+* Sphinx 2.2.8-release
+* sphinxapi.py 4885 2015-01-20 07:02:07Z
 
 ## Documentation
 
